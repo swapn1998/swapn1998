@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi I'm Swapnil Nawgire 👋
+
+I'm Java Backend Developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform. An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
+
 
 <!--
 **swapn1998/swapn1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-I'm Java Backend Developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform. An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

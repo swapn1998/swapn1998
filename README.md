@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **swapnilnawgire0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ogMTt6XIczgIbE2y9jfwoMgnG0cxgIFw/view?usp=sharing](https://drive.google.com/file/d/1ogMTt6XIczgIbE2y9jfwoMgnG0cxgIFw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

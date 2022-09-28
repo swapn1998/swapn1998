@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/swapnil-nawgire-a79584189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-nawgire-a79584189" height="30" width="40" /></a>
 <a href="https://fb.com/swapnil.nawgire.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swapnil.nawgire.7" height="30" width="40" /></a>
-<a href="https://instagram.com/nk.swp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nk.swp" height="30" width="40" /></a>
+<a href="https://instagram.com/nk.swp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nk.swp" height="30" width="40" /></a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapn1998&label=Profile%20views&color=0e75b6&style=flat" alt="swapn1998" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://swapnilnawgire.netlify.app/](https://swapnilnawgire.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nawgireswapnil.netlify.app/](https://swapnilnawgire.netlify.app/)
 
 - 📫 How to reach me **swapnilnawgire0@gmail.com**
 
